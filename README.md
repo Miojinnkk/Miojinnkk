@@ -1,8 +1,12 @@
-Miojinnkk (hey, that's me!).
-- Acshoeally there's not much interesting about me
+Hi! I'm <p>Miojinnkk</p> but you can call me <p>Mio</p>.
+- Actually there's not much interesting about me :P
 - Currently learning html css and js
-- I'm a noob at it yknow... I started at January this year.
-- Wait till it's my turn to cook :fire::fire:
+- I'm a noob at coding lol
+<style>
+  p {
+    text-color: yellow;
+  }
+</style>
 - That's it i think (i think)
 
 
@@ -12,10 +16,10 @@ Miojinnkk (hey, that's me!).
 
 
 
-<!--- And there's that-
+<!--- What am i...
 
 ...
 
 Oh
 
-Readin this too? Ok. ---!>
+Reading this too? Ok. ---!>
