@@ -1,12 +1,7 @@
-Hi! I'm <p>Miojinnkk</p> but you can call me <p>Mio</p>.
+Hi! I'm Miojinnkk but you can call me Mio.
 - Actually there's not much interesting about me :P
 - Currently learning html css and js
 - I'm a noob at coding lol
-<style>
-  p {
-    text-color: yellow;
-  }
-</style>
 - That's it i think (i think)
 
 
