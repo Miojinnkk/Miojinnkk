@@ -1,8 +1,14 @@
-Hi! I'm Miojinnkk but you can call me Mio.
-- Actually there's not much interesting about me :P
-- Currently learning html css and js
-- I'm a noob at coding lol
-- That's it i think (i think)
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta lang="en-US">
+  </head>
+  <body>
+    <h1>me</h1>
+    <p>i'm me (miojinnkk)</p>
+  </body>
+</html>
 
 
 
@@ -11,10 +17,11 @@ Hi! I'm Miojinnkk but you can call me Mio.
 
 
 
-<!--- What am i...
-
+<!--- 
 ...
 
-Oh
+wait
 
-Reading this too? Ok. ---!>
+get out of here >:( 
+
+---!>
